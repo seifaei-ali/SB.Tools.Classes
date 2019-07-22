@@ -1,0 +1,14 @@
+E:\Ali\Needs\SB.Tools\SB.Tools.Classes\SB.Tools.Classes\bin\Release\netstandard2.0\SB.Tools.Classes.deps.json
+E:\Ali\Needs\SB.Tools\SB.Tools.Classes\SB.Tools.Classes\bin\Release\netstandard2.0\SB.Tools.Classes.dll
+E:\Ali\Needs\SB.Tools\SB.Tools.Classes\SB.Tools.Classes\bin\Release\netstandard2.0\SB.Tools.Classes.pdb
+E:\Ali\Needs\SB.Tools\SB.Tools.Classes\SB.Tools.Classes\bin\Release\netstandard2.0\fa-IR\SB.Tools.Classes.resources.dll
+E:\Ali\Needs\SB.Tools\SB.Tools.Classes\SB.Tools.Classes\obj\Release\netstandard2.0\SB.Tools.Classes.csprojAssemblyReference.cache
+E:\Ali\Needs\SB.Tools\SB.Tools.Classes\SB.Tools.Classes\obj\Release\netstandard2.0\SB.Tools.Classes.Language.Texts.resources
+E:\Ali\Needs\SB.Tools\SB.Tools.Classes\SB.Tools.Classes\obj\Release\netstandard2.0\SB.Tools.Classes.Language.Texts.fa-IR.resources
+E:\Ali\Needs\SB.Tools\SB.Tools.Classes\SB.Tools.Classes\obj\Release\netstandard2.0\SB.Tools.Classes.csproj.GenerateResource.cache
+E:\Ali\Needs\SB.Tools\SB.Tools.Classes\SB.Tools.Classes\obj\Release\netstandard2.0\SB.Tools.Classes.csproj.CoreCompileInputs.cache
+E:\Ali\Needs\SB.Tools\SB.Tools.Classes\SB.Tools.Classes\obj\Release\netstandard2.0\SB.Tools.Classes.AssemblyInfoInputs.cache
+E:\Ali\Needs\SB.Tools\SB.Tools.Classes\SB.Tools.Classes\obj\Release\netstandard2.0\SB.Tools.Classes.AssemblyInfo.cs
+E:\Ali\Needs\SB.Tools\SB.Tools.Classes\SB.Tools.Classes\obj\Release\netstandard2.0\fa-IR\SB.Tools.Classes.resources.dll
+E:\Ali\Needs\SB.Tools\SB.Tools.Classes\SB.Tools.Classes\obj\Release\netstandard2.0\SB.Tools.Classes.dll
+E:\Ali\Needs\SB.Tools\SB.Tools.Classes\SB.Tools.Classes\obj\Release\netstandard2.0\SB.Tools.Classes.pdb

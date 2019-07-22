@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>SeifaeiBrothers.Tools.Classes</PackageId>
+    <Version>2.0.0</Version>
+    <Authors>Seifaei.ali</Authors>
+    <Company>SeifaeiBrothers</Company>
+    <Description>This personal tools of ali seifaei</Description>
+    <PackageProjectUrl>https://github.com/seifaei-ali/SB.Tools.Classes</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/seifaei-ali/SB.Tools.Classes</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DocumentFormat.OpenXml" Version="2.9.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.6.1" />
+  </ItemGroup>
+
+</Project>

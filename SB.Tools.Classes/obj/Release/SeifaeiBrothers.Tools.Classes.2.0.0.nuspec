@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SeifaeiBrothers.Tools.Classes</id>
+    <version>2.0.0</version>
+    <authors>Seifaei.ali</authors>
+    <owners>Seifaei.ali</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/seifaei-ali/SB.Tools.Classes</projectUrl>
+    <description>This personal tools of ali seifaei</description>
+    <repository url="https://github.com/seifaei-ali/SB.Tools.Classes" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="DocumentFormat.OpenXml" version="2.9.1" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="12.0.2" exclude="Build,Analyzers" />
+        <dependency id="System.Data.SqlClient" version="4.6.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\Ali\Needs\SB.Tools\SB.Tools.Classes\SB.Tools.Classes\bin\Release\netstandard2.0\fa-IR\SB.Tools.Classes.resources.dll" target="lib\netstandard2.0\fa-IR\SB.Tools.Classes.resources.dll" />
+    <file src="E:\Ali\Needs\SB.Tools\SB.Tools.Classes\SB.Tools.Classes\bin\Release\netstandard2.0\SB.Tools.Classes.dll" target="lib\netstandard2.0\SB.Tools.Classes.dll" />
+  </files>
+</package>
